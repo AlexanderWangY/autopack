@@ -1,0 +1,16 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Zig test temp directories (older Zig versions)
+.zig-cache/
+.zig-out/
+
+# IDE/editor junk
+*.swp
+*.swo
+*.DS_Store
+
+# VS Code
+.vscode/
+
